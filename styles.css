@@ -1,0 +1,43 @@
+nav {
+  text-align: center;
+  background-color: rgb(129, 33, 4);
+}
+
+a {
+  color: gold;
+}
+
+img {
+  height: 180px;
+  width: 180px;
+}
+
+h1 {
+  text-align: center;
+  color: gold;
+}
+
+body {
+  margin: auto;
+  background-color: rgb(206, 84, 2);
+}
+
+section {
+  margin: auto;
+  margin-bottom: 20px;
+  width: 15%;
+  padding: 25px;
+  text-align: center;
+  background-color: rgb(150, 60, 0) ;
+  color: gold;
+  border-radius: 20px;
+}
+
+.reverseColors {
+  background-color: gold;
+  color: rgb(150, 60, 0);
+}
+
+.activePage {
+  pointer-events: none;
+}
